@@ -31,7 +31,6 @@ function Contribute() {
             </svg>
             GitHub
           </span>
-
           {/* Unreal animated background wave effect */}
           <span className="absolute inset-0 bg-gradient-to-r from-purple-500 via-pink-500 to-purple-500 blur-xl opacity-30 animate-[wave_8s_linear_infinite] scale-[2]"></span>
         </a>
